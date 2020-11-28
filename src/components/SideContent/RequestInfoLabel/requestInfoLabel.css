@@ -1,0 +1,22 @@
+.request-info-label {
+    position: fixed;
+    background: white;
+    z-index: 10;
+    border-radius: 5px;
+    right: 0;
+    top: 45%;
+    transform: rotate(-90deg);
+    /* Legacy vendor prefixes that you probably don't need... */
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    /* Opera */
+    -o-transform: rotate(-90deg);
+}
+
+.request-info-label:hover {
+    cursor: pointer;
+}

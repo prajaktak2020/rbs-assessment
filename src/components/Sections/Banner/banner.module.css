@@ -1,0 +1,24 @@
+.top-Section {
+    background-image: url('../../../assets/bg-pic@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+
+.heading {
+    padding: 20px;
+    font-size: 60px;
+}
+
+.banner-h2 {
+    font-size: 60px;
+}
+
+.banner-h1 {
+    font-size: 85px;
+}
+
+.banner-h3 {
+    font-size: 30px;
+}

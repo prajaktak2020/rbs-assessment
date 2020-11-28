@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Oswald';
+}
+
+input:focus {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+

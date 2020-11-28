@@ -1,0 +1,14 @@
+.meet-community-hr {
+    border-top:  2px solid rgb(224, 183, 175) !important;
+    margin-top: -30px;
+    position: relative;
+    height: 2px;
+    z-Index: 1;
+}
+
+.meet-community-header {
+    position: relative;
+    z-Index: 5;
+    max-width: 200px;
+    font-size: 42px;
+}

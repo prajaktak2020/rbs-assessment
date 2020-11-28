@@ -1,0 +1,27 @@
+.wrapper {
+    position: fixed;
+    left: 20px;
+    top: 40%;
+    height: 200px;
+    width: 30px;
+
+}
+
+.step {
+    position: relative;
+    border-bottom: 2px solid black;
+    height: 33px;
+    width: 60%;
+}
+
+.step.active {
+    position: relative;
+    width: 90%;
+    z-index: 1;
+}
+.activeLabel {
+    position: relative;
+    margin-top: -13px;
+    float: left;
+    z-index: 5;
+}
